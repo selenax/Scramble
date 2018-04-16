@@ -1,4 +1,4 @@
-# Scramble-
+# Scramble
 
 Day 1: 
   - create an array of words to be played at scramble 
